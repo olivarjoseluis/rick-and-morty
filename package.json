@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "name": "rick-and-morty",
+  "version": "1.0.0",
+  "description": "Site for pratices of education",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Riack",
+    "and",
+    "morty",
+    "javascript"
+  ],
+  "author": "Jose Luis Olivar <olivarjoseluis9@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
